@@ -1,8 +1,6 @@
 Some sample Content.
 Modifizierter Content.
 Haroun fügt gerade war hinzu für Teilaufgabe 3
-<<<<<<< HEAD
 Teilaufgabe 5 rofl xD
-=======
 GitHub is super
->>>>>>> a2ff6285f9b8f4301ae3775d72a470b6811e1703
+Kartoffelbrei
