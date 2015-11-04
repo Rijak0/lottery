@@ -8,3 +8,5 @@ Teilaufgabe 5 rofl xD
 GitHub is super
 #Mut4life
 Geben sie uns eine eins
+pigniserg leh 
+qmg o.lnsefjm#ÜWEJSOGMLV -L
