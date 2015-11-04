@@ -1,6 +1,4 @@
 Some sample Content.
-<<<<<<< HEAD
 Modifizierter Content.
-=======
 Haroun fügt gerade war hinzu für Teilaufgabe 3
->>>>>>> c11ecb1e247532c14853fa7561a77ad429200989
+GitHub is super
